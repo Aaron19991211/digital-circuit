@@ -6,3 +6,4 @@
 #PCB图：
 ![PCB](https://github.com/Aaron19991211/digital-circuit/blob/main/PCB.png)
 #实验成品图：
+![sadas](https://github.com/Aaron19991211/digital-circuit/blob/main/IMG_2926.JPG)
